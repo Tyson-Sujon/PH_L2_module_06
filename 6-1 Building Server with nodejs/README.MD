@@ -1,10 +1,11 @@
-**INITIALIZE NPM NODE MODULE By CMD:**
+# **INITIALIZE NPM NODE MODULE By CMD:**
+
 initializing npm node module by cmd: npm init -y
 //need edit some package.json config
 
 
 
-### **INSTALL TYPESCRIPT \& DEPENDENCIES \& DEV DEPENDENCIES:**
+# **INSTALL TYPESCRIPT \& DEPENDENCIES \& DEV DEPENDENCIES:**
 
 install typescript by cmd:npm i -D typescript
 
@@ -13,9 +14,10 @@ install typescript by cmd:npm i -D typescript
 **TO GET TYPESCRIPT'S CONFIGARATION FILE:**
 get typescript cofig:npx tsc --init
 
+# 
 
+# **TO GET TYPE SUGGESTION FOR NODE:**
 
-**TO GET TYPE SUGGESTION FOR NODE:**
 write on: npm install -D @types/node
 
 
@@ -34,9 +36,5 @@ To run typescript in node js: npm i tsx
 
 
 
-## **STARTED TUTORIALS:** 
-
-
-
-
+## **STARTED TUTORIALS:**
 
